@@ -19,6 +19,7 @@
     "express": "^4.16.3",
     "keypress": "^0.2.1",
     "node-fetch": "^2.1.2",
+    "nunjucks": "^3.1.2",
     "path": "^0.12.7",
     "pg": "^7.4.1",
     "pg-promise": "^8.4.0",

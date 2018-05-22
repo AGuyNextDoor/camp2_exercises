@@ -1,4 +1,4 @@
-const aquarium =  require("../01_aquarium.js");
+const aquarium = require("../01_aquarium.js");
 
 test("aquarium can contains fishes and algaes", () => {
   const newFish = new aquarium.fish("Lorem", "M", 0);
