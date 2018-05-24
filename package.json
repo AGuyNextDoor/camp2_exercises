@@ -16,6 +16,7 @@
   "homepage": "https://github.com/fewlinesco/camp2_exercises#readme",
   "dependencies": {
     "clear": "^0.1.0",
+    "create-react-app": "^1.5.2",
     "express": "^4.16.3",
     "keypress": "^0.2.1",
     "node-fetch": "^2.1.2",
